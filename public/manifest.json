@@ -1,0 +1,21 @@
+{
+  "name": "GigTracker",
+  "short_name": "GigTracker",
+  "description": "Tax-ready gig work tracking",
+  "start_url": "/gig-tracker/",
+  "display": "standalone",
+  "background_color": "#0C0F14",
+  "theme_color": "#F59E0B",
+  "icons": [
+    {
+      "src": "/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
